@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+lightning_logs/
+MNIST/
+weights/
+/backup
+dataset/data
